@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass",
+  "description": "An interactive sensory showcase of fluid dynamics, glassmorphism, and real-time liquid glass physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
